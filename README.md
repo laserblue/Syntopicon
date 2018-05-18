@@ -5,11 +5,13 @@
 
 "Syntopicon is an open API of ideas. Inspired by the 1952 edition of Encyclopedia Britannica's Great Books of the Western World, the name was coined by Mortimer J. Adler to describe the jewel of his life's work: a catalogued index of 102 fundamental "great ideas" [Ed. of the Western world] around which competing schools of thought have developed over the past 28 centuries. With over 500,000 references to the works of eminent thinkers [Ed. Of the Western World] from Homer to Shakespeare, Euclid to [Ed. Einstein ?], Aristotle to Descartes, the Syntopicon is a monument of academic labor that has fallen into relative obscurity." - John Trecker
 
-This forked project aims to automate the creation of, and interaction with, a Syntopicon in a global Topic-Map-Google-Search-Assistant-type way.
+This forked project aims to automate the creation of, and interaction with, a Syntopicon in a global Topic-Map-Google-Search-Assistant-type-knowledge-graph way.
 
 Proposed References: 
 Ideas That Changed the World, Book by Felipe Fernández-Armesto
+
 Ideas: A History of Thought and Invention, from Fire to Freud, Book by Peter Watson
+
 1001 Ideas that Changed the Way We Think, Book by Trevor Davies
 
 ?? Great Thinkers of the Eastern World: The Major Thinkers and the Philosophical and Religious Classics of China, India, Japan, Korea, and the World of Islam
@@ -29,12 +31,21 @@ http://www.engines4ed.org/hyperbook/nodes/NODE-258-pg.html
 Conversation-based Search
 http://www.rogerschank.com/conversation-based-search
 
-Cyc 
-Research Cyc
-Open Cyc semantic endpoints
-Episodic Reader (Forbus et al.)
-NELL (CMU)
-WATSON 
+  Cyc, 
+
+  Research Cyc, 
+
+  Open Cyc semantic endpoints,
+
+  Episodic Reader (Forbus et al.),
+
+  NELL (CMU),
+
+  WATSON,
+
+  The Knowledge Web
+  http://k-web.org
+  https://www.thebrain.com/blog/big-thinkers/james-burke
 ===================================================
 
 <!--
