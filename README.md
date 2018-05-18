@@ -1,11 +1,42 @@
 ![Logo of the project](http://media.gettyimages.com/photos/mortimer-j-adler-surrounded-by-his-great-ideas-picture-id50447930?s=594x594)
 
-# Syntopicon
-> An open source index of great ideas
+# The Great Conversation Chatroom
+> View and listen to The Great Conversation of the greatest thinkers of the Western world in a chatroom. Chat with your favourite author of a Great Book of the Western World and with supplementary conversational search agents. 
 
-"Read the best books first or you may not have a chance to read them at all." -- Henry David Thoreau
+"Syntopicon is an open API of ideas. Inspired by the 1952 edition of Encyclopedia Britannica's Great Books of the Western World, the name was coined by Mortimer J. Adler to describe the jewel of his life's work: a catalogued index of 102 fundamental "great ideas" [Ed. of the Western world] around which competing schools of thought have developed over the past 28 centuries. With over 500,000 references to the works of eminent thinkers [Ed. Of the Western World] from Homer to Shakespeare, Euclid to [Ed. Einstein ?], Aristotle to Descartes, the Syntopicon is a monument of academic labor that has fallen into relative obscurity." - John Trecker
 
-Syntopicon is an open API of ideas. Inspired by the 1952 edition of Encyclopedia Britannica's Great Books of the Western World, the name was coined by Mortimer J. Adler to describe the jewel of his life's work: a catalogued index of 102 fundamental "great ideas" around which competing schools of thought have developed over the past 28 centuries. With over 500,000 references to the works of eminent thinkers from Homer to Shakespeare, Euclid to Einstein, Aristotle to Descartes, the Syntopicon is a monument of academic labor that has fallen into relative obscurity. This project aims to revive its use among English-speaking men and women who seek a more liberal education.
+This forked project aims to automate the creation of, and interaction with, a Syntopicon in a global Topic-Map-Google-Search-Assistant-type way.
+
+Proposed References: 
+Ideas That Changed the World, Book by Felipe Fernández-Armesto
+Ideas: A History of Thought and Invention, from Fire to Freud, Book by Peter Watson
+1001 Ideas that Changed the Way We Think, Book by Trevor Davies
+
+?? Great Thinkers of the Eastern World: The Major Thinkers and the Philosophical and Religious Classics of China, India, Japan, Korea, and the World of Islam
+
+The Global Syntopicon will include additional Great Ideas from outside the Western world and a much larger inventory of terms. 
+
+The associated cognitive assistant will read web documents and create an interactive syntopicon.
+--------------------------------------------
+Mu Lambda 165
+
+ASK systems
+http://www.engines4ed.org/hyperbook/nodes/NODE-358-pg.html
+
+Search Agents
+http://www.engines4ed.org/hyperbook/nodes/NODE-258-pg.html
+
+Conversation-based Search
+http://www.rogerschank.com/conversation-based-search
+
+Cyc 
+Research Cyc
+Open Cyc semantic endpoints
+Episodic Reader (Forbus et al.)
+NELL (CMU)
+WATSON 
+===================================================
+
 <!--
 ## Installing / Getting started
 
