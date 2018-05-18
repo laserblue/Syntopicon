@@ -18,6 +18,12 @@ This forked project aims to automate the creation of, and interaction with, a Sy
   1001 Ideas that Changed the Way We Think, Book by Trevor Davies
 
   ?? Great Thinkers of the Eastern World: The Major Thinkers and the Philosophical and Religious Classics of China, India, Japan, Korea, and the World of Islam
+ 
+ Dictionary of the History  of Ideas
+ New Dictionary of the History of Ideas
+ 
+ https://web.archive.org/web/20060904121441/http://etext.virginia.edu/DicHist/analytic/
+  
 
   The Global Syntopicon will include additional Great Ideas from outside the Western world and a much larger inventory of terms. 
 
