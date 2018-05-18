@@ -3,24 +3,27 @@
 # The Great Conversation Chatroom
 > View and listen to The Great Conversation of the greatest thinkers of the Western world in a chatroom. Chat with your favourite author of a Great Book of the Western World and with supplementary conversational search agents. 
 
+"What binds the authors together in an intellectual community is the great conversation in which they are engaged. In the works that come later in the sequence of years, we find authors listening to what their predecessors have had to say about this idea or that, this topic or that. They not only harken to the thought of their predecessors, they also respond to it by commenting on it in a variety of ways." - Robert M. Hutchins, The Great Conversation, Vol. 1 of the Great Books of the Western World series.
+  https://en.m.wikipedia.org/wiki/Great_Conversation
+
 "Syntopicon is an open API of ideas. Inspired by the 1952 edition of Encyclopedia Britannica's Great Books of the Western World, the name was coined by Mortimer J. Adler to describe the jewel of his life's work: a catalogued index of 102 fundamental "great ideas" [Ed. of the Western world] around which competing schools of thought have developed over the past 28 centuries. With over 500,000 references to the works of eminent thinkers [Ed. Of the Western World] from Homer to Shakespeare, Euclid to [Ed. Einstein ?], Aristotle to Descartes, the Syntopicon is a monument of academic labor that has fallen into relative obscurity." - John Trecker
 
 This forked project aims to automate the creation of, and interaction with, a Syntopicon in a global Topic-Map-Google-Search-Assistant-type-knowledge-graph way.
 
-Proposed References: 
-Ideas That Changed the World, Book by Felipe Fernández-Armesto
+  Proposed References: 
+  Ideas That Changed the World, Book by Felipe Fernández-Armesto
 
-Ideas: A History of Thought and Invention, from Fire to Freud, Book by Peter Watson
+  Ideas: A History of Thought and Invention, from Fire to Freud, Book by Peter Watson
 
-1001 Ideas that Changed the Way We Think, Book by Trevor Davies
+  1001 Ideas that Changed the Way We Think, Book by Trevor Davies
 
-?? Great Thinkers of the Eastern World: The Major Thinkers and the Philosophical and Religious Classics of China, India, Japan, Korea, and the World of Islam
+  ?? Great Thinkers of the Eastern World: The Major Thinkers and the Philosophical and Religious Classics of China, India, Japan, Korea, and the World of Islam
 
-The Global Syntopicon will include additional Great Ideas from outside the Western world and a much larger inventory of terms. 
+  The Global Syntopicon will include additional Great Ideas from outside the Western world and a much larger inventory of terms. 
 
-The associated cognitive assistant will read web documents and create an interactive syntopicon.
+  The associated cognitive assistant will read web documents and create an interactive syntopicon.
 --------------------------------------------
-Mu Lambda 165
+  Mu Lambda 165
 
 ASK systems
 http://www.engines4ed.org/hyperbook/nodes/NODE-358-pg.html
