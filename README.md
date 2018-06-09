@@ -11,6 +11,8 @@
 This forked project aims to automate the creation of, and interaction with, a Syntopicon in a global Topic-Map-Google-Search-Assistant-type-knowledge-graph way.
 
   Proposed References: 
+    https://prodigalnomore.wordpress.com/great-books-of-the-western-world-as-free-ebooks/
+  
   Ideas That Changed the World, Book by Felipe Fernández-Armesto
 
   Ideas: A History of Thought and Invention, from Fire to Freud, Book by Peter Watson
