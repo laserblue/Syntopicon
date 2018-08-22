@@ -8,10 +8,12 @@
 
 "Syntopicon is an open API of ideas. Inspired by the 1952 edition of Encyclopedia Britannica's Great Books of the Western World, the name was coined by Mortimer J. Adler to describe the jewel of his life's work: a catalogued index of 102 fundamental "great ideas" [Ed. of the Western world] around which competing schools of thought have developed over the past 28 centuries. With over 500,000 references to the works of eminent thinkers [Ed. Of the Western World] from Homer to Shakespeare, Euclid to Einstein [2nd ed. vol. 56], Aristotle to Descartes, the Syntopicon is a monument of academic labor that has fallen into relative obscurity." - John Trecker
 
-This forked project aims to automate the creation of, and interaction with, a Syntopicon in a global Topic-Map-Google-Search-Assistant-type-knowledge-graph way.
+This forked project aims to automate the creation of, and interaction with, a Syntopicon in a global Topic-Map-Google-Search-Assistant-type-knowledge-graph way. Note that scholarly tools such as Noet(TM) https://noet.com/ already exist that perform syntopic services across corpora of digital texts, so this project is primarily for educational purposes.
 
   Proposed References: 
     https://prodigalnomore.wordpress.com/great-books-of-the-western-world-as-free-ebooks/
+    Great Books of the Western World - Web pages by Alan Nicoll http://www.angelfire.com/art/megathink/greatbooks/
+    Eastern University Library, E-books - Great Books of the Western World: Home http://libguides.eastern.edu/greatbooks
   
   Ideas That Changed the World, Book by Felipe Fernández-Armesto
 
