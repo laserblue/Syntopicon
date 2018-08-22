@@ -11,9 +11,12 @@
 This forked project aims to automate the creation of, and interaction with, a Syntopicon in a global Topic-Map-Google-Search-Assistant-type-knowledge-graph way. Note that scholarly tools such as Noet(TM) https://noet.com/ already exist that perform syntopic services across corpora of digital texts, so this project is primarily for educational purposes.
 
   Proposed References: 
-    https://prodigalnomore.wordpress.com/great-books-of-the-western-world-as-free-ebooks/
-    Great Books of the Western World - Web pages by Alan Nicoll http://www.angelfire.com/art/megathink/greatbooks/
-    Eastern University Library, E-books - Great Books of the Western World: Home http://libguides.eastern.edu/greatbooks
+  
+  https://prodigalnomore.wordpress.com/great-books-of-the-western-world-as-free-ebooks/
+    
+  Great Books of the Western World - Web pages by Alan Nicoll http://www.angelfire.com/art/megathink/greatbooks/
+    
+  Eastern University Library, E-books - Great Books of the Western World: Home http://libguides.eastern.edu/greatbooks
   
   Ideas That Changed the World, Book by Felipe Fernández-Armesto
 
